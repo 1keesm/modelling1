@@ -39,7 +39,7 @@ if __name__ == "__main__":
     p2 = Point(3,4)
     print(p.x, p.y)
     print(p2.x, p2.y)
-    print(f"p.x = {p.x} and p.y = {p.y}")
+    print(f"3p.x = {p.x} and p.y = {p.y}")
     print(f"p2.x = {p2.x} and p2.y = {p2.y}")
     p.x = 20
     print(f"p.x = {p.x}")
